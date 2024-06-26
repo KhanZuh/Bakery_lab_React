@@ -4,6 +4,10 @@
 
 This React application displays a selection of cake recipes for the BNTA Bakery. Users can view details of different cakes, including ingredients, prices, and ratings.
 
+![Screenshot 2024-06-26 at 7 38 45 PM](https://github.com/KhanZuh/Bakery_lab_React/assets/129223646/4c5ec44f-efe3-4646-bb2c-d74041db2da8)
+
+
+
 ## Features
 
 - Display multiple cake recipes
